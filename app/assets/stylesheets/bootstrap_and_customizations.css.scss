@@ -1,6 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:400,700);
 
-$body-bg: #2e8ece;
+$body-bg: #ddd;
 $font-family-sans-serif:                'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 $navbar-inverse-bg: #34495e;
 $navbar-inverse-link-color: #ffffff;
@@ -17,7 +17,7 @@ $jumbotron-bg: #ecf0f1;
 }
 
 * {
-	color: #ffffff;
+	color: #34495e;
 }
 
 a{
@@ -30,5 +30,5 @@ a{
 }
 
 input{
-	color: black;
+	color: #34495e;
 }
