@@ -6,7 +6,10 @@ $navbar-inverse-bg: #34495e;
 $navbar-inverse-link-color: #ffffff;
 $jumbotron-bg: #ecf0f1;
 
+
+$icon-font-path: 'bootstrap/';
 @import 'bootstrap';
+@import 'bootstrap-sprockets';
 
 .center {
      text-align: center;
